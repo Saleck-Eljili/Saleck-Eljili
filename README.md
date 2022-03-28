@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on new project
 - 🌱 I’m currently learning to master JS dev
 
-- 💬 Ask me about typescript, nodejs, react, java and python
+- 💬 Ask me about Typescript, NodeJS and ReactJS
 
 
 <!--
