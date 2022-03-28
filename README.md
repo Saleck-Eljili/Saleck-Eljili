@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I'm a Back-end developer
 
 
 - 🔭 I’m currently working on new project
