@@ -1,7 +1,8 @@
-### Hi my name is Saleck 👋 I'm a Back-end developer.  [Portfolio](https://eljiliportfolio.web.app/)
+### Hi my name is Saleck 👋 I'm a Back-end developer.  
 
 #### Skills: TYPESCRIPT / NODEJS / REACTJS / NEXTJS / JS / HTML / CSS / JAVA / PYTHON 
 
+[To know more](https://eljiliportfolio.web.app/)
 
 - 🔭 I’m currently working on new project
 - 🌱 I’m currently learning to master JS dev
