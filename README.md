@@ -1,6 +1,6 @@
 ### Hi 👋 I'm a Back-end developer
 
-## Skills: TYPESCRIPT / NODEJS / REACTJS / NEXTJS / JS / HTML / CSS / JAVA / PYTHON 
+#### Skills: TYPESCRIPT / NODEJS / REACTJS / NEXTJS / JS / HTML / CSS / JAVA / PYTHON 
 
 
 - 🔭 I’m currently working on new project
