@@ -9,6 +9,7 @@
 
 - 💬 Ask me about Typescript, NodeJS and ReactJS
 
+<!--
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleck-Eljili&show_icons=true&hide=contribs)
 
@@ -16,7 +17,7 @@
 
 
 
-<!--
+
 
 **Saleck-Eljili/Saleck-Eljili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
