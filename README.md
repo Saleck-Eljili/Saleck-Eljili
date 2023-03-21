@@ -2,7 +2,7 @@
 
 #### Skills: TYPESCRIPT / NODEJS / REACTJS / JAVA / PYTHON / DOCKER / AWS / SQL /MONGODB
 
-[To know more](https://eljiliportfolio.web.app/)
+[To know more](https://eljili.fr/)
 
 - 🔭 I’m currently working on new project
 - 🌱 I’m currently learning to master JS dev
