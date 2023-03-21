@@ -1,4 +1,4 @@
-### Hi my name is Saleck 👋 I'm a Back-end developer.  
+### Hi my name is Saleck 👋 I'm a Full-stack developer.  
 
 #### Skills: TYPESCRIPT / NODEJS / REACTJS / JAVA / SPRING BOOT / HIBERNATE / PYTHON / DOCKER / AWS / SQL /MONGODB
 
