@@ -1,15 +1,17 @@
 ### Hi my name is Saleck 👋 I'm a Back-end developer.  
 
-#### Skills: TYPESCRIPT / NODEJS / REACTJS / JAVA / PYTHON / DOCKER / AWS / SQL /MONGODB
+#### Skills: TYPESCRIPT / NODEJS / REACTJS / JAVA / SPRING BOOT / HIBERNATE / PYTHON / DOCKER / AWS / SQL /MONGODB
 
 [To know more](https://eljili.fr/)
+
+<!--
 
 - 🔭 I’m currently working on new project
 - 🌱 I’m currently learning to master JS dev
 
 - 💬 Ask me about Typescript, NodeJS and ReactJS
 
-<!--
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleck-Eljili&show_icons=true&hide=contribs)
 
