@@ -1,8 +1,8 @@
 ### Hi my name is Saleck 👋 I'm a Full-stack developer.  
 
-#### Skills: TYPESCRIPT / NODEJS / REACTJS / JAVA / SPRING BOOT / HIBERNATE / PYTHON / DOCKER / AWS / SQL /MONGODB
+#### Skills: JAVA / SPRING BOOT / ANGULAR / HIBERNATE / TYPESCRIPT / NODEJS / REACTJS / PYTHON / DOCKER / AWS / SQL /MONGODB
 
-[To know more](https://eljili.fr/)
+[To know more](https://eljili.com/)
 
 <!--
 
