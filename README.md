@@ -50,14 +50,6 @@ Here is the tech stack I use to build scalable solutions:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saleck-Eljili&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Saleck's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleck-Eljili&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
 
 ---
 <div align="center">
